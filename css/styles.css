@@ -1,0 +1,24 @@
+body {
+    background:plum;
+    font-family: "Comic Sans MS";
+}
+h1 {
+    color:aqua;
+    text-align: center;
+}
+h2 {
+    text-align: center;
+}
+h3 {
+    text-align: center;
+}
+img {
+    border: 10px solid powderblue;
+    border-radius: 100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.test {
+    text-align: center;
+}
